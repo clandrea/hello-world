@@ -1,2 +1,3 @@
 # hello-world
 starting with a simple project
+That's the first coding project in Git Hub. Life is changing...
